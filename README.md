@@ -5,7 +5,6 @@ Crypto Knight is your dedicated crypto mining rig, designed for efficiency and s
 
 # Features 
 
-Military-Grade Security: Crypto Knight employs top-notch security measures to protect your crypto assets, ensuring your investments are safe from digital threats.
 
 High Efficiency: This mining rig is optimized for energy efficiency, helping you maximize your profits while minimizing electricity costs.
 
@@ -13,10 +12,11 @@ Reliability: With unwavering stability, Crypto Knight works tirelessly to mine c
 
 Cutting-Edge Technology: Equipped with the latest mining hardware and software, Crypto Knight is always at the forefront of the crypto mining industry.
 
-User-Friendly Interface: Crypto Knight features a user-friendly interface that caters to both beginners and experienced miners, making operation and management a breeze.
-
 24/7 Support: Enjoy round-the-clock support and assistance to keep your mining operation running smoothly.
 
 Optimized Cooling: Crypto Knight maintains the ideal temperature for optimal performance, ensuring longevity and efficient mining.
 
 Remote Monitoring: Keep an eye on your mining activities from anywhere with remote monitoring capabilities, giving you full control of your crypto endeavors
+
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS SOFTWARE AT YOUR OWN RISK. THE USE IS COMPLETE RESPONSIBILITY OF THE END-USER. THE DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM
